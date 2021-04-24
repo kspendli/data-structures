@@ -14,9 +14,10 @@ public class MoveAllZerosToEnd {
             if(a[i] != 0){
                 a[count] = a[i];
                 count++;
-            }else {
-                a[count] = 0;
             }
+        }
+        for(int i=count; i < a.length;i++){
+            a[i] = 0;
         }
         return a;
     }

@@ -16,3 +16,6 @@ Arrays
     11. Leader in Array
     12. Frequencys of elements in sorted array
     13. Maximum Profit in Stock Buy and Sell
+    14. Tapping Rain Water
+    15. Maximum Consecutive 1's in Array
+    16. Majority Element in Array
