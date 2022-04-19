@@ -1,8 +1,12 @@
 package com.kspendli.datastructures.arrays;
 
 import java.util.Arrays;
-//IN: [1,2,3,4,5]
-//OP: [3,4,5,1,2]
+
+/**
+ * Given An array
+ * Rotate based given size
+ * Example: [1,2,3,4,5] digit: 2 output is [3,4,5,1,2]
+ * */
 public class LeftRotateArrayByD {
 
     public static void main(String[] args) {

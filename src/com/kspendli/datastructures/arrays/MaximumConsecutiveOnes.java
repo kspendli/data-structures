@@ -1,5 +1,8 @@
 package com.kspendli.datastructures.arrays;
-
+/**
+ * Given an array
+ * Find the maximum consecutive ones(1) appeared
+ * */
 public class MaximumConsecutiveOnes {
     public static void main(String[] args) {
         int result = maxConsecutiveOnes(new int[]{0,1,1,0,1,1,1});

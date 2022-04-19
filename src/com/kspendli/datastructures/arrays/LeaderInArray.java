@@ -1,8 +1,10 @@
 package com.kspendli.datastructures.arrays;
 
-//A Element that has small elements on right side is called Leader Element
-//In Sorted Array only last element is Leader
-//in Decreasing order array all elements are leader
+/**
+ * A Element that has small elements on right side is called Leader Element
+ * In Sorted Array only last element is Leader
+ * In Decreasing order array all elements are leader
+ * **/
 public class LeaderInArray {
     public static void main(String[] args) {
         printLeadersInArray(new int[]{10,34,12,24,25,22});

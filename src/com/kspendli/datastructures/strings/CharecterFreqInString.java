@@ -1,4 +1,4 @@
-package com.kspendli.datastructures;
+package com.kspendli.datastructures.strings;
 
 public class CharecterFreqInString {
 

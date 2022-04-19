@@ -40,8 +40,6 @@ public class MajorityElement {
         return map.entrySet().stream().max(Map.Entry.comparingByValue()).get().getValue();
     }
 
-
-
     //Other solution simple one and most preferable
     private static int majorityElementSolution(int[] a){
         int mjIndex = 0;

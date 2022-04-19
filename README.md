@@ -1,21 +1,60 @@
 # Data Structure Examples By Kumaraswamy Pendli
 Implementation on Java
 
-Arrays
+- Arrays
 
-    1. Two Sum
-    2. Three Sum
-    3. Largest Element in Array
-    4. Second Largest Element in Array
-    5. Check if an Array is Sorted or not
-    6. Reverse an Array
-    7. Remove Duplicates From an Array
-    8. Move All Zero's to the End
-    9. Left Rotate an Array
-    10. Left Rotate an Array by Size
-    11. Leader in Array
-    12. Frequencys of elements in sorted array
-    13. Maximum Profit in Stock Buy and Sell
-    14. Tapping Rain Water
-    15. Maximum Consecutive 1's in Array
-    16. Majority Element in Array
+  - Two Sum
+  - Three Sum
+  - Largest Element in Array
+  - Second Largest Element in Array
+  - Check if an Array is Sorted or not
+  - Reverse an Array
+  - Remove Duplicates From an Array
+  - Move All Zero's to the End
+  - Left Rotate an Array
+  - Left Rotate an Array by Size
+  - Leader in Array
+  - Frequency of elements in sorted array
+  - Maximum Profit in Stock Buy and Sell
+  - Tapping Rain Water
+  - Maximum Consecutive 1's in Array
+  - Majority Element in Array
+  - Maximum sum of circular sub array
+  - Maximum sum of sub array
+  - Maximum length of even odd array
+  - Maximum sum of K consecutive elements 
+  - find the smallest required number of moves to make all elements
+        in the array pairwise distinct
+        
+- Maths
+  - Count Digits in Number
+  - Factorial Number
+  - Iterative Power
+  - Palindrome Number
+  - Trailing Zero's of Factorial Number
+  
+- Multi Dimensional Array
+  - Print Multi Dimension array values
+  - Print Default Elements in Multi Dimension array
+  - Print elements in snake wise
+  
+- Queue & Stack
+  - Circular Array Queue Implementation
+  - Circular Tour
+  - Generate based given Numbers
+  
+- String
+  - Characters Frequency in String
+  
+- Search
+  - Binary Search Iterative
+  - Binary Search Recursive
+  
+- Sorting
+  - test
+  
+- HashMap
+  - test
+  
+- Recursive Programming
+  

@@ -1,5 +1,8 @@
 package com.kspendli.datastructures.arrays;
-
+/*
+* Given Array
+* Find the Second Largest Element
+* */
 public class SecondLargestElementInArray {
     public static void main(String[] args) {
         int result = findSecondLargestElementInArray(new int[]{12,34, 87, 55,6,7,87});

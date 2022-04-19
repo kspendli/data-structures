@@ -2,8 +2,11 @@ package com.kspendli.datastructures.arrays;
 
 import java.util.Arrays;
 
-//Ip: [1,2,3,4,5]
-//OP: [2,3,4,5,1]
+/**
+ * Given Array
+ * Rotate one element
+ * Example: [1,2,3,4,5] output is [2,3,4,5,1]
+ * */
 public class LeftRotateArray {
     public static void main(String[] args) {
         int result[] = leftRotateArray(new int[]{1,2,3,4,5});
